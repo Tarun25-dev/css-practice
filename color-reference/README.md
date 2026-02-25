@@ -46,7 +46,7 @@ A complete visual reference guide for all CSS named colors, organized by color f
 
 - **Blacks & Near-Blacks**
   
-  ![image](images/black.jpg)
+  ![image](images/black.jpeg)
 
 - **Grays & Charcoals**
 
