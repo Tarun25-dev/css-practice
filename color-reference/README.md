@@ -29,7 +29,18 @@ A complete visual reference guide for all CSS named colors, organized by color f
 
 # 📌 Quick Reference — Most Used Colors
 
-
+| Color Name | Hex |
+|---|---|
+| Red | `#FF0000` |
+| Blue | `#0000FF` |
+| Green | `#008000` |
+| Black | `#000000` |
+| White | `#FFFFFF` |
+| Gray | `#808080` |
+| Orange | `#FFA500` |
+| Yellow | `#FFFF00` |
+| Purple | `#800080` |
+| Pink | `#FFC0CB` |
 
 # 📩 Download
  ⬇ [Download Full Color Refernce](https://github.com/Tarun25-dev/css-practice/blob/main/color-reference/Full_Color_Reference.docx)
