@@ -50,63 +50,63 @@ A complete visual reference guide for all CSS named colors, organized by color f
 
 - **Grays & Charcoals**
 
-  ![image](grey.jpg)
+  ![image](images/grey.jpeg)
 
 - **Whites & Off-Whites**
   
-  ![image](white.jpg)
+  ![image](images/white.jpeg)
 
 - **Reds**
 
-  ![image](red.jpg)
+  ![image](images/red.jpeg)
 
 - **Oranges**
   
-  ![image](orange.jpg)
+  ![image](images/orange.jpeg)
 
 - **Yellows**
 
-  ![image](yellow.jpg)
+  ![image](images/yellow.jpeg)
 
 - **Greens**
   
-  ![image](green.jpg)
+  ![image](images/green.jpeg)
 
 - **Blues**
 
-  ![image](blue.jpg)
+  ![image](images/blue.jpeg)
 
 - **Purples & Violets**
   
-  ![image](purple.jpg)
+  ![image](images/purple.jpeg)
 
 - **Pinks & Roses**
 
-  ![image](pink.jpg)
+  ![image](images/pink.jpeg)
 
 - **Browns & Earth Tones**
   
-  ![image](brown.jpg)
+  ![image](images/brown.jpeg)
 
 - **Teals & Cyans**
 
-  ![image](teal.jpg)
+  ![image](images/teal.jpeg)
 
 - **Magentas & Fuchsias**
   
-  ![image](magentas.jpg)
+  ![image](images/magentas.jpeg)
 
 - **Metallics & Specials**
 
-  ![image](metallic.jpg)
+  ![image](images/metallic.jpeg)
 
 - **Neon & Fluorescent**
   
-  ![image](neon.jpg)
+  ![image](images/neon.jpeg)
 
 - **Nature & Pastels**
 
-  ![image](nature.jpg)
+  ![image](images/nature.jpeg)
   
 # 📩 Download
  ⬇ [Download Full Color Refernce](https://github.com/Tarun25-dev/css-practice/blob/main/color-reference/Full_Color_Reference.docx)
