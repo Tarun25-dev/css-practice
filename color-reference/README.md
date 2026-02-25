@@ -3,24 +3,24 @@ A complete visual reference guide for all CSS named colors, organized by color f
 
 # 🖌 Color Families Covered
 
-        | Family | Colors |
-        |---|---|
-        | ⬛ Blacks & Near-Blacks | 10 |
-        | 🩶 Grays & Charcoals | 15 |
-        | ⬜ Whites & Off-Whites | 20 |
-        | 🔴 Reds | 24 |
-        | 🟠 Oranges | 17 |
-        | 🟡 Yellows | 17 |
-        | 🟢 Greens | 32 |
-        | 🔵 Blues | 36 |
-        | 🟣 Purples & Violets | 28 |
-        | 🩷 Pinks & Roses | 18 |
-        | 🟤 Browns & Earth Tones | 32 |
-        | 🩵 Teals & Cyans | 18 |
-        | 🌸 Magentas & Fuchsias | 13 |
-        | 🥈 Metallics & Specials | 12 |
-        | 🌈 Neon & Fluorescent | 13 |
-        | 🌿 Nature & Pastels | 19 |
+   | Family | Colors |
+   |---|---|
+   | ⬛ Blacks & Near-Blacks | 10 |\
+   | 🩶 Grays & Charcoals | 15 |
+   | ⬜ Whites & Off-Whites | 20 |
+   | 🔴 Reds | 24 |
+   | 🟠 Oranges | 17 |
+   | 🟡 Yellows | 17 |
+   | 🟢 Greens | 32 |
+   | 🔵 Blues | 36 |
+   | 🟣 Purples & Violets | 28 |
+   | 🩷 Pinks & Roses | 18 |
+   | 🟤 Browns & Earth Tones | 32 |
+   | 🩵 Teals & Cyans | 18 |
+   | 🌸 Magentas & Fuchsias | 13 |
+   | 🥈 Metallics & Specials | 12 |
+   | 🌈 Neon & Fluorescent | 13 |
+   | 🌿 Nature & Pastels | 19 |
 
 # 📖 What Each Entry Contains
 - **Visual Swatch** — actual background color so you can see it instantly
