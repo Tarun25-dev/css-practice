@@ -1,3 +1,3 @@
 
 # 📩 Download
- ⬇ [Download Full Color Refernce](Full_color_Reference.docx)
+ ⬇ [Download Full Color Refernce](color-reference/Full_Color_Reference.docx)
