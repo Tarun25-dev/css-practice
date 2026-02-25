@@ -46,7 +46,67 @@ A complete visual reference guide for all CSS named colors, organized by color f
 
 - **Blacks & Near-Blacks**
   
-![image](black.png)
+  ![image](black.jpg)
 
+- **Grays & Charcoals**
+
+  ![image](grey.jpg)
+
+- **Whites & Off-Whites**
+  
+  ![image](white.jpg)
+
+- **Reds**
+
+  ![image](red.jpg)
+
+- **Oranges**
+  
+  ![image](orange.jpg)
+
+- **Yellows**
+
+  ![image](yellow.jpg)
+
+- **Greens**
+  
+  ![image](green.jpg)
+
+- **Blues**
+
+  ![image](blue.jpg)
+
+- **Purples & Violets**
+  
+  ![image](purple.jpg)
+
+- **Pinks & Roses**
+
+  ![image](pink.jpg)
+
+- **Browns & Earth Tones**
+  
+  ![image](brown.jpg)
+
+- **Teals & Cyans**
+
+  ![image](teal.jpg)
+
+- **Magentas & Fuchsias**
+  
+  ![image](magentas.jpg)
+
+- **Metallics & Specials**
+
+  ![image](metallic.jpg)
+
+- **Neon & Fluorescent**
+  
+  ![image](neon.jpg)
+
+- **Nature & Pastels**
+
+  ![image](nature.jpg)
+  
 # 📩 Download
  ⬇ [Download Full Color Refernce](https://github.com/Tarun25-dev/css-practice/blob/main/color-reference/Full_Color_Reference.docx)
