@@ -1,0 +1,12 @@
+Linear Gradient:
+>> Linear Gradient is a smooth transition between two or more colors arranged in a straight line.
+>> Instead of using one solid color, a linear gradient blends colors gradually from one direction to another.
+
+Syntax:
+linear-gradient(to right, red, blue);
+>> This means:
+>> start with red 
+>> Gradually change to blue
+>> Direction is left to right
+>> also in place of direction we use degrees also
+>> also we use more colors than 2
