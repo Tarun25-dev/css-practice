@@ -14,3 +14,8 @@ You can also use degrees:
 ```
 linear-gradient(45deg, red, blue);
 ```
+
+📌 Multiple Colors Example
+```
+background: linear-gradient(to right, red, yellow, green);
+```
