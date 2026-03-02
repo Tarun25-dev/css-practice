@@ -10,5 +10,5 @@ radial-gradient(color1, color2);
 # syntax with shape
 ```
 radial-gradient(circle, red, blue);
-radial-gradient(ellipse, red, blue);
+radial-gradient(ellipse, red, blue); # default
 ```
