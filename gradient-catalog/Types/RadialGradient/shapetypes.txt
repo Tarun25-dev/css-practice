@@ -1,0 +1,12 @@
+Shape Types:
+>> radial-gradient(circle, red, blue);
+>> radial-gradient(ellipse, red, blue);
+
+>> circle → Perfect round shape
+>> ellipse → Default shape (oval)
+
+Example with position:
+>> radial-gradient(circle at top right, red, blue);
+>> Shape: Circle
+>> Starting point: Top right corner
+>> Red spreads from top right → blends into blue
