@@ -1,0 +1,10 @@
+Radial Gradient:
+>> Radial gradient is a type of css gradient where colors spread out from a central point in a circular or eliptical shape.
+>> Unlike linear gradient(which moves in a straight line),
+>> Radial gradient starts from the center and expands outwards.
+
+Basic Syntax:
+>> radial-gradient(color1, color2);
+>> color1 starts at the center
+>> It gradually blends into color2 toward the outer edges
+
