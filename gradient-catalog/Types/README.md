@@ -19,3 +19,6 @@
 | Midpoint Control | `linear-gradient(to right, #e74c3c 30%, #3498db)` | Blend midpoint |
 | Transparent Fade | `linear-gradient(to right, #e74c3c, transparent)` | Fade to nothing |
 | Double Fade | `linear-gradient(to right, transparent, #e74c3c, transparent)` | Center glow |
+
+# 2️⃣ Radial Gradient
+
