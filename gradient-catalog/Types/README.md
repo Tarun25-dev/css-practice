@@ -38,3 +38,4 @@
 | Vignette | `radial-gradient(ellipse, transparent 60%, black 100%)` | Dark edges |
 | Inner Glow | `radial-gradient(circle, #f39c12 0%, transparent 60%)` | Center highlight |
 
+# 3️⃣ Conic Gradient
