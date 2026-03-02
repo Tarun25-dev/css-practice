@@ -22,3 +22,19 @@
 
 # 2️⃣ Radial Gradient
 
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Basic | `radial-gradient(#e74c3c, #3498db)` | Default radial |
+| Circle | `radial-gradient(circle, #e74c3c, #3498db)` | Circle shape |
+| Ellipse | `radial-gradient(ellipse, #e74c3c, #3498db)` | Ellipse shape |
+| Center (default) | `radial-gradient(circle at center, #e74c3c, #3498db)` | Center origin |
+| Top Left | `radial-gradient(circle at top left, #e74c3c, #3498db)` | Corner origin |
+| Top Right | `radial-gradient(circle at top right, #e74c3c, #3498db)` | Corner origin |
+| Bottom | `radial-gradient(circle at bottom, #e74c3c, #3498db)` | Bottom origin |
+| Small Circle | `radial-gradient(circle closest-side, #e74c3c, #3498db)` | Size keyword |
+| Large Circle | `radial-gradient(circle farthest-corner, #e74c3c, #3498db)` | Size keyword |
+| 3 Colors | `radial-gradient(circle, #e74c3c, #f39c12, #3498db)` | Multiple stops |
+| Spotlight | `radial-gradient(circle, white 10%, transparent 70%)` | Glow effect |
+| Vignette | `radial-gradient(ellipse, transparent 60%, black 100%)` | Dark edges |
+| Inner Glow | `radial-gradient(circle, #f39c12 0%, transparent 60%)` | Center highlight |
+
