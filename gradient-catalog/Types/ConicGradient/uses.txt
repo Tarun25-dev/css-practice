@@ -1,0 +1,10 @@
+Real Uses:
+
+>> 1. Color wheels 
+>> 2. Pie Charts
+>> 3. Decorative Backgrounds
+>> 4. Loading Animations
+>> 5. Gradient borders
+>> 6. Data Visualizaion
+>> 7. Creative CSS art 
+
