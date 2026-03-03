@@ -1,3 +1,5 @@
+# Linear Gradient
+
 **Definition**
 
 A linear gradient is a CSS function that creates a smooth transition between two or more colors in a straight line direction.
