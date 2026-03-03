@@ -17,3 +17,6 @@ radial-gradient(ellipse, red, blue); # default
 ```
 background: radial-gradient(circle at top right, red, blue); # start from top right corner with circle shape
 ```
+# Example
+
+![radial](radial.png)
