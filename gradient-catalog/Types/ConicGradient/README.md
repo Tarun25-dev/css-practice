@@ -14,3 +14,6 @@ conic-gradient(red 0deg 90deg, blue 90deg 180deg);
 ```
 conic-gradient(at top left, red, blue);
 ```
+# Example
+
+![conic](conic.png)
