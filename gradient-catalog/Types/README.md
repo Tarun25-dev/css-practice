@@ -39,3 +39,17 @@
 | Inner Glow | `radial-gradient(circle, #f39c12 0%, transparent 60%)` | Center highlight |
 
 # 3️⃣ Conic Gradient
+
+# 🔄 CSS Conic Gradient Practice
+
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Basic | `conic-gradient(#e74c3c, #3498db)` | Basic conic |
+| Full Color Wheel | `conic-gradient(red, yellow, green, cyan, blue, magenta, red)` | Full rotation |
+| Pie — 2 Slices | `conic-gradient(#e74c3c 50%, #3498db 50%)` | Half split |
+| Pie — 3 Slices | `conic-gradient(#e74c3c 33%, #f39c12 33% 66%, #3498db 66%)` | 3 equal parts |
+| Pie — 4 Slices | `conic-gradient(red 25%, blue 25% 50%, green 50% 75%, yellow 75%)` | 4 equal parts |
+| From 45deg | `conic-gradient(from 45deg, #e74c3c, #3498db)` | Start angle |
+| From 90deg | `conic-gradient(from 90deg, #e74c3c, #3498db)` | Start angle |
+| Custom Position | `conic-gradient(from 0deg at top left, #e74c3c, #3498db)` | Origin point |
+| Smooth Wheel | `conic-gradient(red, orange, yellow, green, blue, violet, red)` | Smooth rotation |
