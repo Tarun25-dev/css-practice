@@ -1,0 +1,21 @@
+Conic Gradient:
+>> Conic gradient is a CSS gradient where colors are distributed around a center point in a circular(rotational) direction.\
+>> It rotates around the center like a color wheel or pie-chart.
+
+Basic syntax:
+>> conic-gradient(color1, color2);
+>> means,
+colors starts at 0°
+Colors rotate clockwise around the center
+Ends blending back at the starting point
+
+With Angles:
+>> conic-gradient(red 0deg 90deg, blue 90deg 180deg);
+>> Red covers 0°–90°
+>> Blue covers 90°–180°
+>> This creates pie chart like sections
+
+With Center Point:
+>> conic-gradient(at top left, red, blue);
+>> Changes the center point 
+>> Rotation starts from top left corner(default pos is center(0°))
