@@ -40,8 +40,6 @@
 
 # 3️⃣ Conic Gradient
 
-# 🔄 CSS Conic Gradient Practice
-
 | Name | Code | What it teaches |
 |------|------|----------------|
 | Basic | `conic-gradient(#e74c3c, #3498db)` | Basic conic |
