@@ -25,3 +25,6 @@ linear-gradient(45deg, red, blue);
 ```
 background: linear-gradient(to right, red, yellow, green);
 ```
+# Example
+
+![linear](linear.png)
