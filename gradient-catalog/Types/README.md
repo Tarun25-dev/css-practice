@@ -51,3 +51,7 @@
 | From 90deg | `conic-gradient(from 90deg, #e74c3c, #3498db)` | Start angle |
 | Custom Position | `conic-gradient(from 0deg at top left, #e74c3c, #3498db)` | Origin point |
 | Smooth Wheel | `conic-gradient(red, orange, yellow, green, blue, violet, red)` | Smooth rotation |
+
+# 4️⃣ Repeating Linear Gradient
+
+
