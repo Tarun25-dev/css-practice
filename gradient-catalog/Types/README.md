@@ -54,8 +54,6 @@
 
 # 4️⃣ Repeating Linear Gradient
 
-# 🔁 CSS Repeating Linear Gradient Practice
-
 | Name | Code | What it teaches |
 |------|------|----------------|
 | Basic Stripes | `repeating-linear-gradient(to right, #e74c3c 0 20px, #3498db 20px 40px)` | Equal stripes |
