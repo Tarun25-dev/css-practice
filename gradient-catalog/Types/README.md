@@ -54,4 +54,15 @@
 
 # 4️⃣ Repeating Linear Gradient
 
+# 🔁 CSS Repeating Linear Gradient Practice
 
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Basic Stripes | `repeating-linear-gradient(to right, #e74c3c 0 20px, #3498db 20px 40px)` | Equal stripes |
+| Diagonal Stripes | `repeating-linear-gradient(45deg, #e74c3c 0 10px, white 10px 20px)` | 45° stripes |
+| Thin Lines | `repeating-linear-gradient(to right, black 0 2px, white 2px 20px)` | Ruled lines |
+| Zebra Rows | `repeating-linear-gradient(to bottom, #f5f5f5 0 30px, white 30px 60px)` | Zebra table |
+| Thick & Thin | `repeating-linear-gradient(to right, #e74c3c 0 5px, white 5px 30px)` | Unequal stripes |
+| 3 Color Stripe | `repeating-linear-gradient(to right, red 0 10px, white 10px 20px, blue 20px 30px)` | Tricolor |
+| Blended Stripe | `repeating-linear-gradient(45deg, #e74c3c, #3498db 10px, #e74c3c 20px)` | Gradient repeat |
+| Vertical Lines | `repeating-linear-gradient(to right, black 0 1px, transparent 1px 30px)` | Grid lines |
