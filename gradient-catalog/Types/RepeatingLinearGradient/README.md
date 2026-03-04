@@ -5,3 +5,7 @@ A repeated linear gradient in CSS is a gradient that repeats its color pattern i
 ```
 repeating-linear-gradient(direction, color-stop1, color-stop2, ...)
 ```
+
+# Example
+
+![](repeatingLG)
