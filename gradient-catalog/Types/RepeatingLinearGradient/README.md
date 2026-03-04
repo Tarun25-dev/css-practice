@@ -8,4 +8,4 @@ repeating-linear-gradient(direction, color-stop1, color-stop2, ...)
 
 # Example
 
-![](repeatingLG)
+![](repeatLG)
