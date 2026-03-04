@@ -1,0 +1,20 @@
+Repeated Linear Gradient:
+>> Repeated Linear gradient in CSS is a gradient that repeats its colors pattern restarts again and again.
+
+Basic Syntax:
+>> repeating-linear-gradient(direction, color-stop1, color-stop2, ...)
+
+Example:
+>>  repeating-linear-gradient(
+    to right,
+    #e74c3c 0px,
+    #e74c3c 20px,
+    #3498db 20px,
+    #3498db 40px
+);
+>> Red for 20px
+>> Blue for next 20px
+>> Then it repeats 
+>> Creates striped pattern 
+
+>> It works like linear gradient() but instead of fading once from start to end, the color patterns restarts again and again.
