@@ -77,8 +77,6 @@
 
 # 6️⃣ Repeating Conic Gradient
 
-# 🔁 CSS Repeating Conic Gradient Practice
-
 | Name | Code | What it teaches |
 |------|------|----------------|
 | Checkerboard | `repeating-conic-gradient(black 0 25%, white 25% 50%)` | Classic pattern |
