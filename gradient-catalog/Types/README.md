@@ -87,8 +87,6 @@
 
 # 7️⃣ Multilayer Gradients
 
-# 🎨 CSS Multilayer Gradient Practice
-
 | Name | Code | What it teaches |
 |------|------|----------------|
 | Stripe over color | `repeating-linear-gradient(45deg, rgba(0,0,0,.1) 0 5px, transparent 5px 10px), linear-gradient(to right, #6a11cb, #2575fc)` | Layer stacking |
