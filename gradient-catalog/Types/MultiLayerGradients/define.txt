@@ -1,0 +1,16 @@
+MultiLayer Gradient:
+>> MultiLayer Gradient in CSS is a gradient which stacking multiple gradients as a layer in single background.
+>> Each gradient acts like a seperate background layer and they written seperated by commas. The first gradient is placed on top and next gradients appears below it.
+
+Basic Gradient:
+>> background: gradient1, gradient2, gradient3;
+
+Example:
+
+background:
+  radial-gradient(circle at center, rgba(255,255,255,0.4), transparent),
+  linear-gradient(to right, #e74c3c, #3498db);
+
+>> Top layer → radial gradient (light glow)
+>> Bottom layer → linear gradient (color background)
+>> Both combine to create a complex visual effect.
