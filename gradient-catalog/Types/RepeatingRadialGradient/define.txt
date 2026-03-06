@@ -1,0 +1,24 @@
+Repeating Radial Gradient:
+>> Repeating Radial Gradient in CSS ia a gradient that repeats circular or eliptical color patterns outward from a center point.
+>> It works like radial gradient(), but color stops repeat again and again, creating concentric rings or ripple patterns.
+
+Basic Syntax:
+>> repeating-radial-gradient(shape size at position, color-stop1, color-stop2, ...)
+
+Example:
+
+background: repeating-radial-gradient(
+  red 0px,
+  red 10px,
+  blue 10px,
+  blue 20px
+);
+
+>> Red circle from 0 to 10px
+>> blue circle from 10 to 20px
+>> Then patterns repeats outward infinitely
+
+Simple Visual concept for quick understanding:
+
+>> Imagine ripples in water when you drop a stone.
+>> Those repeating rings are similar to a repeating radial gradient.
