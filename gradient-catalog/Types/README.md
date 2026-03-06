@@ -67,8 +67,6 @@
 
 # 5️⃣ Repeating Radial Gradient
 
-# 🔁 CSS Repeating Radial Gradient Practice
-
 | Name | Code | What it teaches |
 |------|------|----------------|
 | Bullseye | `repeating-radial-gradient(circle, #e74c3c 0 10px, white 10px 20px)` | Concentric rings |
