@@ -4,3 +4,7 @@ A repeating radial gradient in CSS is a gradient that repeats circular or ellipt
 It works like radial-gradient(), but the color stops repeat again and again, creating concentric rings or ripple patterns.
 
 # Basic Syntax
+
+```
+repeating-radial-gradient(shape size at position, color-stop1, color-stop2, ...)
+```
