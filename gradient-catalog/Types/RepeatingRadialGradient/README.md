@@ -8,3 +8,5 @@ It works like radial-gradient(), but the color stops repeat again and again, cre
 ```
 repeating-radial-gradient(shape size at position, color-stop1, color-stop2, ...)
 ```
+
+# Example
