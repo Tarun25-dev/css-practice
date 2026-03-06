@@ -64,3 +64,6 @@
 | 3 Color Stripe | `repeating-linear-gradient(to right, red 0 10px, white 10px 20px, blue 20px 30px)` | Tricolor |
 | Blended Stripe | `repeating-linear-gradient(45deg, #e74c3c, #3498db 10px, #e74c3c 20px)` | Gradient repeat |
 | Vertical Lines | `repeating-linear-gradient(to right, black 0 1px, transparent 1px 30px)` | Grid lines |
+
+# 5️⃣ Repeating Radial Gradient
+
