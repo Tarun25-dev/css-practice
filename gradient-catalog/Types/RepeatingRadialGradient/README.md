@@ -10,3 +10,5 @@ repeating-radial-gradient(shape size at position, color-stop1, color-stop2, ...)
 ```
 
 # Example
+
+![repeatRG](repeatRG.png)
