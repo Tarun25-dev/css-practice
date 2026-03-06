@@ -84,3 +84,15 @@
 | Sunburst | `repeating-conic-gradient(#f39c12 0 10deg, #e74c3c 10deg 20deg)` | Sun ray effect |
 | Pinwheel | `repeating-conic-gradient(#2ecc71 0 45deg, #3498db 45deg 90deg)` | 4 blade spin |
 | Fine Rays | `repeating-conic-gradient(#e74c3c 0 5deg, white 5deg 10deg)` | Thin sunrays |
+
+# 7️⃣ Multilayer Gradients
+
+# 🎨 CSS Multilayer Gradient Practice
+
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Stripe over color | `repeating-linear-gradient(45deg, rgba(0,0,0,.1) 0 5px, transparent 5px 10px), linear-gradient(to right, #6a11cb, #2575fc)` | Layer stacking |
+| Spotlight on dark | `radial-gradient(circle at 30% 30%, rgba(255,255,255,.15), transparent 60%), linear-gradient(135deg, #1a1a2e, #16213e)` | Light on dark |
+| Double linear | `linear-gradient(to right, rgba(255,0,0,.3), transparent), linear-gradient(to bottom, blue, purple)` | Two directions |
+| Grid pattern | `repeating-linear-gradient(to right, rgba(0,0,0,.05) 0 1px, transparent 1px 40px), repeating-linear-gradient(to bottom, rgba(0,0,0,.05) 0 1px, transparent 1px 40px)` | CSS grid lines |
+| Radial + linear | `radial-gradient(circle at top right, #f39c12, transparent 50%), linear-gradient(135deg, #e74c3c, #8e44ad)` | Mixed types |
