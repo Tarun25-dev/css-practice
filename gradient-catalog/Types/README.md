@@ -74,3 +74,15 @@
 | Radar | `repeating-radial-gradient(circle, transparent 0 15px, #2ecc71 15px 17px)` | Ring outline |
 | Dot Pattern | `repeating-radial-gradient(circle, #333 0 3px, transparent 3px 20px)` | Polka dots |
 | Glow Rings | `repeating-radial-gradient(circle, #f39c12 0 5px, transparent 5px 30px)` | Glowing rings |
+
+# 6️⃣ Repeating Conic Gradient
+
+# 🔁 CSS Repeating Conic Gradient Practice
+
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Checkerboard | `repeating-conic-gradient(black 0 25%, white 25% 50%)` | Classic pattern |
+| Color Slices | `repeating-conic-gradient(#e74c3c 0 30deg, #3498db 30deg 60deg)` | Repeating slices |
+| Sunburst | `repeating-conic-gradient(#f39c12 0 10deg, #e74c3c 10deg 20deg)` | Sun ray effect |
+| Pinwheel | `repeating-conic-gradient(#2ecc71 0 45deg, #3498db 45deg 90deg)` | 4 blade spin |
+| Fine Rays | `repeating-conic-gradient(#e74c3c 0 5deg, white 5deg 10deg)` | Thin sunrays |
