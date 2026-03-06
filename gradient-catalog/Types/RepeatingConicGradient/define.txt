@@ -1,0 +1,23 @@
+Repeating Conic Gradient:
+>> Repeating Conic Gradient in CSS is a gradient where color sections rotate around a center point and the patterns repeats infinitely.
+>> It works like conic-gradient(), but the angle-based color pattern repeats again and again, creating circular stripes or pie-like patterns.
+
+Basic Syntax:
+>> repeating-conic-gradient(from angle at position, color-stop1, color-stop2, ...)
+
+Simple Example:
+
+background: repeating-conic-gradient(
+  red 0deg 30deg,
+  blue 30deg 60deg
+);
+
+>> Red from 0 to 30deg
+>> blue from 30 to 60deg
+>> Pattern repeats around the circle
+>> This creates rotating striped slices like a wheel.
+
+# Simple visual understanding:
+
+>> Think of a pizza sliced into repeating colored pieces.
+>> Those repeating slices are like a repeating conic gradient.
