@@ -7,3 +7,6 @@ It works like conic-gradient(), but the angle-based color pattern repeats again 
 ```
 repeating-conic-gradient(from angle at position, color-stop1, color-stop2, ...)
 ```
+# Example
+
+![CG](repeatCG.png)
