@@ -67,3 +67,12 @@
 
 # 5️⃣ Repeating Radial Gradient
 
+# 🔁 CSS Repeating Radial Gradient Practice
+
+| Name | Code | What it teaches |
+|------|------|----------------|
+| Bullseye | `repeating-radial-gradient(circle, #e74c3c 0 10px, white 10px 20px)` | Concentric rings |
+| Soft Rings | `repeating-radial-gradient(circle, #e74c3c, #3498db 20px, #e74c3c 40px)` | Blended rings |
+| Radar | `repeating-radial-gradient(circle, transparent 0 15px, #2ecc71 15px 17px)` | Ring outline |
+| Dot Pattern | `repeating-radial-gradient(circle, #333 0 3px, transparent 3px 20px)` | Polka dots |
+| Glow Rings | `repeating-radial-gradient(circle, #f39c12 0 5px, transparent 5px 30px)` | Glowing rings |
