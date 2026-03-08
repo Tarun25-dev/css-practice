@@ -33,3 +33,5 @@
 | Midnight Sea | `linear-gradient(to bottom, #141e30, #243b55)` |
 
 ---
+
+# 🌸 Pastel Gradients
