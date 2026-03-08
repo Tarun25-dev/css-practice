@@ -67,3 +67,5 @@
 | Copper | `linear-gradient(135deg, #b79891, #94716b)` |
 
 ---
+
+# ❄️ Cool Gradients
