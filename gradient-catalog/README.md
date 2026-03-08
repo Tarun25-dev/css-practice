@@ -16,3 +16,6 @@
 | Desert Sun | `linear-gradient(to right, #e96c1b, #f7d86c, #e96c1b)` |
 
 ---
+
+# 🌊 Ocean Gradients
+
