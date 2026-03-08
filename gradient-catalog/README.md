@@ -84,3 +84,5 @@
 | Tundra | `linear-gradient(to bottom, #3a6186, #89253e)` |
 
 ---
+
+# 🌈 Rainbow Gradients
