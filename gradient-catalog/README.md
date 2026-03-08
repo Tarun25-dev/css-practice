@@ -101,3 +101,16 @@
 ---
 
 # 🖤 Dark Gradients
+
+| Name | Code |
+|-----|-----|
+| Pure Dark | `linear-gradient(135deg, #0f0f0f, #1a1a1a)` |
+| Midnight | `linear-gradient(to bottom, #0f0c29, #302b63, #24243e)` |
+| Dark Matter | `linear-gradient(135deg, #1f1c2c, #928dab)` |
+| Shadow | `linear-gradient(to right, #000000, #434343)` |
+| Abyss | `linear-gradient(to bottom, #000000, #0a0a0a, #111111)` |
+| Dark Ocean | `linear-gradient(135deg, #141e30, #243b55)` |
+| Obsidian | `linear-gradient(to right, #16222a, #3a6073)` |
+| Onyx | `linear-gradient(135deg, #1a1a2e, #16213e, #0f3460)` |
+| Carbon | `linear-gradient(to right, #323232, #0f0f0f)` |
+| Dark Forest | `linear-gradient(135deg, #0a1628, #1a3a2a)` |
