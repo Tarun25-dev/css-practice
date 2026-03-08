@@ -19,3 +19,17 @@
 
 # 🌊 Ocean Gradients
 
+| Name | Code |
+|-----|-----|
+| Deep Ocean | `linear-gradient(to bottom, #00416a, #e4e5e6)` |
+| Tropical Sea | `linear-gradient(135deg, #43c6ac, #191654)` |
+| Ocean Wave | `linear-gradient(to right, #0099f7, #f11712)` |
+| Aqua | `linear-gradient(135deg, #13547a, #80d0c7)` |
+| Deep Blue | `linear-gradient(to bottom, #0f2027, #203a43, #2c5364)` |
+| Sea Breeze | `linear-gradient(to right, #89f7fe, #66a6ff)` |
+| Tidal | `linear-gradient(135deg, #4facfe, #00f2fe)` |
+| Pacific | `linear-gradient(to bottom right, #005c97, #363795)` |
+| Lagoon | `linear-gradient(to right, #43e97b, #38f9d7)` |
+| Midnight Sea | `linear-gradient(to bottom, #141e30, #243b55)` |
+
+---
