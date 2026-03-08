@@ -86,3 +86,16 @@
 ---
 
 # 🌈 Rainbow Gradients
+
+| Name | Code |
+|-----|-----|
+| Full Rainbow | `linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)` |
+| Soft Rainbow | `linear-gradient(to right, #ff9a9e, #fad0c4, #ffecd2, #d4fc79, #96e6a1, #89f7fe)` |
+| Neon Rainbow | `linear-gradient(to right, #ff0000, #ff7700, #ffff00, #00ff00, #0000ff, #8b00ff)` |
+| Pastel Rainbow | `linear-gradient(to right, #ffb3ba, #ffdfba, #ffffba, #baffc9, #bae1ff)` |
+| Diagonal Rainbow | `linear-gradient(135deg, red, orange, yellow, green, blue, violet)` |
+| Dark Rainbow | `linear-gradient(to right, #8b0000, #8b4500, #8b8b00, #008b00, #00008b, #4b0082)` |
+| Watercolor | `linear-gradient(135deg, #f093fb, #f5576c, #4facfe, #00f2fe)` |
+| Pride | `linear-gradient(to right, #e40303, #ff8c00, #ffed00, #008026, #004dff, #750787)` |
+
+---
