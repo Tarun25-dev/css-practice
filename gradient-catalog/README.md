@@ -52,3 +52,18 @@
 ---
 
 # 🔥 Warm Gradients
+
+| Name | Code |
+|-----|-----|
+| Fire | `linear-gradient(to top, #f12711, #f5af19)` |
+| Lava | `linear-gradient(135deg, #200122, #6f0000)` |
+| Hot Ember | `linear-gradient(to right, #eb3349, #f45c43)` |
+| Blaze | `linear-gradient(135deg, #f7971e, #ffd200)` |
+| Volcano | `linear-gradient(to bottom, #9b0000, #ff4e00, #ec9f05)` |
+| Chili | `linear-gradient(to right, #d31027, #ea384d)` |
+| Amber Glow | `linear-gradient(135deg, #f6d365, #fda085)` |
+| Inferno | `linear-gradient(to top, #4b0000, #ff0000, #ffaa00)` |
+| Warm Sand | `linear-gradient(to right, #d4a373, #faedcd)` |
+| Copper | `linear-gradient(135deg, #b79891, #94716b)` |
+
+---
