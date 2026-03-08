@@ -50,3 +50,5 @@
 | Pale Lilac | `linear-gradient(to right, #e0c3fc, #c3cfe2)` |
 
 ---
+
+# 🔥 Warm Gradients
