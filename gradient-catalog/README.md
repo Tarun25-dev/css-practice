@@ -99,3 +99,5 @@
 | Pride | `linear-gradient(to right, #e40303, #ff8c00, #ffed00, #008026, #004dff, #750787)` |
 
 ---
+
+# 🖤 Dark Gradients
