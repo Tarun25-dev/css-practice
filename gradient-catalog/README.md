@@ -35,3 +35,18 @@
 ---
 
 # 🌸 Pastel Gradients
+
+| Name | Code |
+|-----|-----|
+| Cotton Candy | `linear-gradient(135deg, #fddb92, #d1fdff)` |
+| Baby Blush | `linear-gradient(to right, #ffecd2, #fcb69f)` |
+| Lavender Mist | `linear-gradient(135deg, #e0c3fc, #8ec5fc)` |
+| Peach Cream | `linear-gradient(to right, #ffeaa7, #fab1a0)` |
+| Mint Breeze | `linear-gradient(135deg, #d4fc79, #96e6a1)` |
+| Soft Rose | `linear-gradient(to right, #ffc3a0, #ffafbd)` |
+| Dreamy Sky | `linear-gradient(135deg, #a1c4fd, #c2e9fb)` |
+| Butter Yellow | `linear-gradient(to right, #fffde7, #fff9c4)` |
+| Blush Pink | `linear-gradient(135deg, #ffdde1, #ee9ca7)` |
+| Pale Lilac | `linear-gradient(to right, #e0c3fc, #c3cfe2)` |
+
+---
