@@ -69,3 +69,18 @@
 ---
 
 # ❄️ Cool Gradients
+
+| Name | Code |
+|-----|-----|
+| Ice Blue | `linear-gradient(135deg, #e0f7fa, #80deea)` |
+| Arctic | `linear-gradient(to bottom, #d7e1ec, #ffffff)` |
+| Frost | `linear-gradient(to right, #cfd9df, #e2ebf0)` |
+| Glacier | `linear-gradient(135deg, #a8edea, #fed6e3)` |
+| Steel | `linear-gradient(to right, #bdc3c7, #2c3e50)` |
+| Winter Sky | `linear-gradient(to bottom, #2980b9, #6dd5fa, #ffffff)` |
+| Blizzard | `linear-gradient(135deg, #e8f5e9, #b3e5fc)` |
+| Polar | `linear-gradient(to right, #1a1a2e, #16213e, #0f3460)` |
+| Cool Mint | `linear-gradient(135deg, #0fd850, #f9f047)` |
+| Tundra | `linear-gradient(to bottom, #3a6186, #89253e)` |
+
+---
