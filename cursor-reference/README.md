@@ -66,4 +66,10 @@ selector {
 | 34 | `ns-resize` | ↕️ | Up & Down |
 | 35 | `nesw-resize` | ↗️↙️ | Diagonal ↗ ↙ |
 | 36 | `nwse-resize` | ↖️↘️ | Diagonal ↖ ↘ |
+
+### 5️⃣ Custom
+
+| # | Cursor Value | Symbol | Notes |
+|---|-------------|-------|------|
+| 37 | `url()` | 🖼️ | Your own image as cursor |
 ---
