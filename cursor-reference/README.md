@@ -4,6 +4,6 @@ In css, a pointer usually refers to the mouse cursor style that appears when a u
 
 # All Built-in CSS Cursors
 
-## 1️⃣ General / Common
+### 1️⃣ General / Common
 
 ---
