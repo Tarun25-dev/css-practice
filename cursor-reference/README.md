@@ -51,5 +51,10 @@ selector {
 
 ### 3️⃣ Resize — Corners
 
-
+| # | Cursor Value | Symbol | Corner |
+|---|-------------|-------|--------|
+| 29 | `ne-resize` | ↗️ | Top-right |
+| 30 | `nw-resize` | ↖️ | Top-left |
+| 31 | `se-resize` | ↘️ | Bottom-right |
+| 32 | `sw-resize` | ↙️ | Bottom-left |
 ---
