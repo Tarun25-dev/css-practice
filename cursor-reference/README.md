@@ -42,5 +42,10 @@ selector {
 
 ### 2️⃣ Resize — Edges
 
-
+| # | Cursor Value | Symbol | Edge |
+|---|-------------|-------|------|
+| 25 | `n-resize` | ↑ | Top edge |
+| 26 | `s-resize` | ↓ | Bottom edge |
+| 27 | `e-resize` | → | Right edge |
+| 28 | `w-resize` | ← | Left edge |
 ---
