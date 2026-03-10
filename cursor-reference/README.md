@@ -57,4 +57,13 @@ selector {
 | 30 | `nw-resize` | ↖️ | Top-left |
 | 31 | `se-resize` | ↘️ | Bottom-right |
 | 32 | `sw-resize` | ↙️ | Bottom-left |
+
+### 4️⃣ Resize — Bidirectional
+
+| # | Cursor Value | Symbol | Direction |
+|---|-------------|-------|-----------|
+| 33 | `ew-resize` | ↔️ | Left & Right |
+| 34 | `ns-resize` | ↕️ | Up & Down |
+| 35 | `nesw-resize` | ↗️↙️ | Diagonal ↗ ↙ |
+| 36 | `nwse-resize` | ↖️↘️ | Diagonal ↖ ↘ |
 ---
