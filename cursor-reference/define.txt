@@ -5,3 +5,13 @@ Pointer:
 Syntax:
 >> selector{ cursor: pointer; }
 
+Example:
+html: <button class="btn">Click Me</button>
+css: .btn{ cursor: pointer; }
+
+>> When the user moves the mouse over the button, the cursor changes to a hand pointer, showing that it can be clicked.
+
+Used for?
+>> Improves user Experience
+>> Shows that an element is interactive
+>> Commonly used for buttons, links and clickable cards
