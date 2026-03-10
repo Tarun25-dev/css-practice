@@ -48,4 +48,8 @@ selector {
 | 26 | `s-resize` | ↓ | Bottom edge |
 | 27 | `e-resize` | → | Right edge |
 | 28 | `w-resize` | ← | Left edge |
+
+### 3️⃣ Resize — Corners
+
+
 ---
