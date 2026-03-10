@@ -39,4 +39,8 @@ selector {
 |22 | `row-resize` | ↕️ | Resize row |
 |23 | `zoom-in` | 🔍➕ | Zoom in |
 |24 | `zoom-out` | 🔍➖ | Zoom out |
+
+### 2️⃣ Resize — Edges
+
+
 ---
