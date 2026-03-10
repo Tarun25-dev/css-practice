@@ -2,6 +2,13 @@
 
 In css, a pointer usually refers to the mouse cursor style that appears when a user moves the mouse over an element.
 
+# Syntax
+```
+selector {
+  cursor: value;
+}
+```
+
 # All Built-in CSS Cursors
 
 ### 1️⃣ General / Common
