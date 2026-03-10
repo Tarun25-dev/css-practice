@@ -1,1 +1,7 @@
+Pointer: 
+>> In css, a pointer usually refers to the mouse cursor style that appears when a user moves the mouse over an element.
+>> Is a value of the cursor property used to change the mouse cursor to a hand icon, indicating that the element is clickable.
+
+Syntax:
+>> selector{ cursor: pointer; }
 
